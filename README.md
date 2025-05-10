@@ -1,4 +1,4 @@
-# Startup-kit
+# New User Toolkit
 
 ## Description
 
