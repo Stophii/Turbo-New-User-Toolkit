@@ -1,0 +1,8 @@
+name = "turbotoolkit"
+version = "0.1.0"
+description = "A few easy-to-implement functions to help you start off in Turbo!"
+authors = ["Anonymous"]
+
+[canvas]
+width = 256
+height = 144
