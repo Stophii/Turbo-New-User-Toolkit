@@ -2,7 +2,7 @@
 
 ## Description
 
-A few easy to implement functions to help you start off in Turbo!
+A few easy-to-implement functions to help you start off in Turbo!
 
 >💡 **Tip** 💡 This [video](https://youtu.be/g6EFmxjdR_o) goes over this repo
 
